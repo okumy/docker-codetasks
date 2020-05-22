@@ -5,7 +5,7 @@ Docker image for running Python code tasks (exercices).
 ## Usage
 
 ```dockerfile
-FROM pylotcode/docker-codetasks:1.0.0
+FROM playpauseandstop/docker-codetasks:latest
 ```
 
 ## Developement

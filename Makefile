@@ -1,6 +1,6 @@
 .PHONY: build run
 
-NAME = pylotcode/docker-codetasks
+NAME = playpauseanstop/docker-codetasks
 TAG ?= latest
 
 build:
