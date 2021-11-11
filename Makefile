@@ -1,6 +1,6 @@
 .PHONY: build run
 
-NAME = playpauseanstop/docker-codetasks
+NAME = mxen/docker-codetasks
 TAG ?= latest
 
 build:
