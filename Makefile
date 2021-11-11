@@ -8,3 +8,6 @@ build:
 
 run: build
 	docker run --rm -it $(NAME):$(TAG) $(ARGS)
+
+push: build
+	docker push $(NAME):$(TAG)
